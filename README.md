@@ -5,7 +5,7 @@ Made in [Leaflet](http://leafletjs.com).
 
 ## Usage
 
-Just open the canvas.html file in any modern browser.
+Just click [here](https://rawgit.com/nicolamasotti/leaflet-map/develop/html/canvas.html)
 
 ## Credits
 
